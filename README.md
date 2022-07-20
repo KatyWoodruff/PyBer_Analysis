@@ -12,6 +12,7 @@ As we can see below, fare for rural cities tend to stay within $0-$500, suburban
 
 
 
+
 ###Summary
 Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
 Based on times of day, 
